@@ -74,6 +74,7 @@ pip install PyAudio
 
 3. Running the Host App
 
-Find your Outgoing COM Port in Windows Bluetooth settings, update PORT_BLUETOOTH inside desktop_app.py, and run: python desktop_app.py
+Find your Outgoing COM Port in Windows Bluetooth settings, update PORT_BLUETOOTH inside desktop_app.py, and run: 
+python desktop_app.py
 
 

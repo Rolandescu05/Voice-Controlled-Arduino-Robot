@@ -1,3 +1,5 @@
+*WORK IN PROGRESS*
+
 # 🤖 Voice & Keyboard Controlled Autonomous Robot
 
 An advanced robotics project featuring a custom Python Desktop Application that communicates with an Arduino-based smart robot over Bluetooth (HC-05). The system integrates cloud-based speech recognition, precise keyboard gameplay controls, and automated collision avoidance.

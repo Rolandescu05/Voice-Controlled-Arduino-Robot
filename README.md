@@ -60,7 +60,9 @@ Make sure you have Python 3.x installed on your PC, alongside the Arduino IDE.
 Open your terminal or Command Prompt and install the required modules:
 
 pip install pyserial
+
 pip install SpeechRecognition
+
 pip install PyAudio
 
 2. Arduino Configuration
